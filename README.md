@@ -1,4 +1,5 @@
 Medicare Outpatient Analysis
+
 This project analyzes Medicare outpatient hospital data to understand cost structures, procedure prevalence, and geographic differences in services. The dataset includes about 90,000 rows covering a wide range of outpatient procedures performed across the United States.
 
 Tools & Methods
